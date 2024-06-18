@@ -11,3 +11,4 @@ unifreq/openwrt-aarch64
 xiaoyaliu/alist     
 linuxserver/transmission   
 bpatrik/pigallery2  
+ydkn/cups  
