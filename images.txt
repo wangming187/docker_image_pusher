@@ -13,3 +13,4 @@ xhofe/alist:latest
 --platform linux/arm64 linuxserver/transmission-sqlite:latest   
 --platform linux/arm64 bpatrik/pigallery2-sqlite:latest  
 --platform linux/arm64 ydkn/cups-sqlite:latest  
+--platform linux/arm64 docker-sqlite:latest
