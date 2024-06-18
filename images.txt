@@ -7,3 +7,7 @@ xhofe/alist:latest
 alpine
 kasmweb/nginx:1.25.3
 python:alpine3.19
+unifreq/openwrt-aarch64
+xiaoyaliu/alist     
+linuxserver/transmission   
+bpatrik/pigallery2  
